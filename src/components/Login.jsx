@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 const handelClick = () => {
   const clientId = "1b2d2f6c8dd3425a81be4b0d08f8378d";
-  const redirectUrl = "https://makoneakash.github.io/Spotify-Clone/";
+  const redirectUrl = "http://localhost:3000/";
   const apiUrl = "https://accounts.spotify.com/authorize";
   const scope = [
     "user-read-private",
